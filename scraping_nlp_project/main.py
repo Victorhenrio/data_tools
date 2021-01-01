@@ -24,6 +24,8 @@ def main():
     
     ## Benchmark crypto
     cry_ben.benchmark(nb_crypto=5)
+    
+    print("hello")
 
 
 
